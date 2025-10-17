@@ -1,15 +1,15 @@
 # Animal classifier
 
-#Description
+#Description#
 
 Animal classifier - is a neural network that classificate animal classes
 
-#Technologies
+#Technologies#
 
 -Python
 -TensorFlow
 
-#Installation and launch
+#Installation and launch#
 
 1.**Clone repository**
 2.**Make a virtual environment**
