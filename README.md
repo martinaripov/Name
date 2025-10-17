@@ -1,1 +1,2 @@
-# Name
+# Animal classifier
+
